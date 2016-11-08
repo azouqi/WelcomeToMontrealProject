@@ -1,0 +1,1 @@
+All javascript codes should place here.
